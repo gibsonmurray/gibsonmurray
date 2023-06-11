@@ -8,7 +8,7 @@ Hi I'm Gibson! ![](https://user-images.githubusercontent.com/18350557/176309783-
 *   🖥️ Take a look at my portfolio <a target="_blank" rel="noreferrer" href='https://gibsonmurray.github.io'>HERE</a>
 *   🚀 Currently available for hire!
 *   👾 I enjoy gaming and going to the gym
-*   🧠 I'm learning React
+*   🧠 I'm currently learning Swift
 
 ### Skills
 
