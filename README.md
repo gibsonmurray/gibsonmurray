@@ -5,7 +5,7 @@ Hi I'm Gibson! ![](https://user-images.githubusercontent.com/18350557/176309783-
 --------------------------
 
 *   🎓 I am a computer science major at the University of Maryland, College Park
-*   🖥️ Check out my dev portfolio [HERE](https://bento.me/gibsondotdev)
+*   🖥️ Check out my dev portfolio [HERE](https://bento.me/gibsonmurray)
 *   🚀 Currently available for hire!
 *   👾 I enjoy gaming and going to the gym
 *   🧠 I'm currently exploring eye-catching front end development
